@@ -1,24 +1,24 @@
 const meta = {
   // Metadata
-  siteTitle: 'Anurag Hazra - Creative Web Designer',
+  siteTitle: 'HumbleFool - Tech-enthusiast Doctor',
   siteDescription:
-    'Anurag Hazra - Creative frontEnd web developer who loves javascript and modern web technologies.',
-  siteTitleAlt: 'Anurag Hazra',
-  siteShortName: 'Anurag Hazra',
-  siteUrl: 'https://anuraghazra.github.io', // No trailing slash!
+    'HumbleFool - Creative & tenacious doctor who loves technology.',
+  siteTitleAlt: 'HumbleFool',
+  siteShortName: 'HumbleFool',
+  siteUrl: 'https://hum8lefool.github.io', // No trailing slash!
 };
 
 const social = {
   siteLogo: `src/static/logo.svg`,
   siteBanner: `${meta.siteUrl}/images/social-banner.png`,
-  twitter: '@anuraghazru',
+  twitter: '@hum8lefool',
 };
 
 const website = {
   ...meta,
   ...social,
-  disqusShortName: 'anuraghazra',
-  googleAnalyticsID: 'UA-119972196-1',
+  disqusShortName: 'HumbleFool',
+  //googleAnalyticsID: '',
   // Manifest
   themeColor: '#6D83F2',
   backgroundColor: '#6D83F2',
